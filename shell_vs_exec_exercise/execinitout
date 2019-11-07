@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                NAMES
+09418d68de8e        execinit:latest     "/bin/sh -c 'ping go…"   18 seconds ago      Up 18 seconds       0.0.0.0:80->80/tcp   execinit
